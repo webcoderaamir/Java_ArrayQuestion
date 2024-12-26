@@ -1,6 +1,6 @@
 // import java.util.*;
 
-public class MinSizeSubArrSum {
+public class MinSizeSubArrKSum {
 
     public static int minSubArrayLen(int[] nums, int target) {
 
